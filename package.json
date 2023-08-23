@@ -1,8 +1,8 @@
 {
   "name": "to-do-list",
-  "homepage": "https://M-Bisht.github.io/To-Do-List_Website",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://M-Bisht.github.io/To-Do-List_Website",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
